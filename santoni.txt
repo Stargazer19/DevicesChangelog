@@ -1,3 +1,10 @@
-**MSM Xtended XQ Release-v6.0 Changelogs - Redmi 4/4X (Santoni)**
+**MSM Xtended XQ Release-v7.0 Changelogs - Redmi 4/4X (Santoni)**
 
-• Initial Official Build
+• Added Xiaomi Add-on
+• Build missing a2dp and wifi dependencies
+• Fixed microphone record issues 
+• Updated blobs from tissot and LA.UM.8.6.r1-03400-89xx.0
+• Updated port-brigde from LA.UM.8.6.r1-02900-89xx.0
+• Updated Carrier config overlays from LA.UM.8.6.r1-02900-89xx.0
+• Optimized dalvik heap properties for all variants
+• Misc. improvements and fixes
